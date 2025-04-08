@@ -1,4 +1,3 @@
-## Step 5: Setup the frontend React framework, update the components, and start OctoFit Tracker app
 
 In this step, we will accomplish the following:
 
